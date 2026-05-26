@@ -1,7 +1,31 @@
-# House Price Prediction using Linear Regression
+# ML Internship Tasks
 
 ## Project Overview
-This project uses Machine Learning Linear Regression to predict house prices using the Boston Housing dataset.
+This project demonstrates Machine Learning models using Python and Scikit-Learn.
+
+---
+
+## Task 1 - Data Preprocessing
+- Data cleaning and visualization performed
+- Output screenshot included
+
+---
+
+## Task 2 - Linear Regression
+- Model: Linear Regression
+- Dataset: Boston Housing Dataset
+- MSE: 19.37
+- R² Score: 0.65
+- Goal: Predict house prices
+
+---
+
+## Task 3 - KNN Classification
+- Model: K-Nearest Neighbors (KNN)
+- Problem: Classify house prices as High/Low
+- Output: Accuracy, Confusion Matrix, Classification Report
+
+---
 
 ## Technologies Used
 - Python
@@ -9,17 +33,7 @@ This project uses Machine Learning Linear Regression to predict house prices usi
 - Scikit-Learn
 - Jupyter Notebook
 
-## Features
-- Data preprocessing
-- Model training
-- Prediction
-- Performance evaluation using MSE and R² Score
-
-## Result
-- Mean Squared Error: 19.37
-- R² Score: 0.65
-  
-The model shows moderate performance and successfully predicts house prices using Linear Regression.
+---
 
 ## Author
 Durga Anil
