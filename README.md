@@ -1,24 +1,26 @@
-#  ML Internship Tasks — Codveda Technology
+# ML Internship Tasks — Codveda Technology
 
-##  Project Overview
+## Project Overview
 
-This project demonstrates Machine Learning models using Python and Scikit-Learn. It includes data preprocessing, regression, classification, and ensemble learning on a housing dataset.
+This project demonstrates the implementation of fundamental Machine Learning algorithms using Python and Scikit-Learn. It covers data preprocessing, regression, classification, and ensemble learning techniques using a housing dataset.
 
+The objective is to build, train, and evaluate machine learning models and understand the complete workflow from raw data to model evaluation.
 
+---
 
-##  Organization
+## Organization
 
 Codveda Technology Internship Program
 
+---
 
-
-##  Author
+## Author
 
 Durga Anil
 
+---
 
-
-##  Project Structure
+## Project Structure
 
 ```
 ML-Internship-Tasks/
@@ -35,53 +37,64 @@ ML-Internship-Tasks/
 
 ---
 
-##  Tasks Completed
+## Tasks Completed
 
-###  Level 1
+### Level 1 — Basic Machine Learning
 
 * Data Preprocessing
 * Linear Regression
-* KNN Classification
+* K-Nearest Neighbors (KNN) Classification
 
+---
 
+### Level 2 — Intermediate Machine Learning
 
-###  Level 2
-
-* Logistic Regression
+* Logistic Regression for Binary Classification
 * Decision Tree Classifier
 
+---
 
-
-###  Level 3
+### Level 3 — Advanced Machine Learning
 
 * Random Forest Classifier
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
 * NumPy
-* Scikit-Learn
+* Scikit-learn
 * Matplotlib
 * Jupyter Notebook
 
+---
 
-##  Results Summary
+## Results Summary
 
-| Model               | Metric   | Result |
-| ------------------- | -------- | ------ |
-| Linear Regression   | R² Score | ~0.65  |
-| KNN                 | Accuracy | Good   |
-| Logistic Regression | Accuracy | Good   |
-| Decision Tree       | Accuracy | Better |
-| Random Forest       | Accuracy | Best   |
+| Model               | Metric Used | Performance |
+| ------------------- | ----------- | ----------- |
+| Linear Regression   | R² Score    | ~0.65       |
+| KNN Classifier      | Accuracy    | Good        |
+| Logistic Regression | Accuracy    | Good        |
+| Decision Tree       | Accuracy    | Improved    |
+| Random Forest       | Accuracy    | Best        |
 
+---
 
+## Key Learnings
 
-##  Conclusion
+* Data preprocessing and feature engineering
+* Supervised learning (regression and classification)
+* Model evaluation metrics
+* Overfitting and model tuning
+* Ensemble learning methods
 
-This project demonstrates end-to-end machine learning workflow from preprocessing to advanced models.
+---
 
+## Conclusion
 
+This project demonstrates an end-to-end machine learning pipeline, starting from data preprocessing to building and evaluating multiple machine learning models. It provides practical exposure to real-world ML workflows.
+
+---
