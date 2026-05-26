@@ -16,8 +16,10 @@ This project uses Machine Learning Linear Regression to predict house prices usi
 - Performance evaluation using MSE and R² Score
 
 ## Result
-- Mean Squared Error: 24.29
-- R² Score: 0.66
+- Mean Squared Error: 19.37
+- R² Score: 0.65
+  
+The model shows moderate performance and successfully predicts house prices using Linear Regression.
 
 ## Author
 Durga Anil
